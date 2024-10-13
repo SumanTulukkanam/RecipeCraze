@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RecipeCraze</title>
+   
 </head>
 <body>
 
@@ -32,15 +32,7 @@
     <li><strong>Android Studio:</strong> Development platform for the mobile application.</li>
 </ul>
 
-<h2>Installation</h2>
-<ol>
-    <li>Clone the repository:
-        <pre><code>git clone https://github.com/yourusername/recipecraze.git</code></pre>
-    </li>
-    <li>Open the project in <strong>Android Studio</strong>.</li>
-    <li>Set up Firebase in your project by linking it to your Firebase account. Follow <a href="https://firebase.google.com/docs/android/setup">this guide</a> to configure Firebase with Android.</li>
-    <li>Build and run the app on an emulator or a connected device.</li>
-</ol>
+
 
 <h2>Usage</h2>
 <ol>
@@ -56,8 +48,6 @@
     <li>Push notifications for new recipe suggestions.</li>
 </ul>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 </body>
 </html>
